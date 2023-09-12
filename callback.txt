@@ -1,0 +1,2 @@
+Callbacks allow you to continue executing code while the operation is being executed in the background. Once the operation has completed, the callback function is called with the result of the operation. 
+This way, you can ensure that the program remains responsive and the user experience is not impacted.09-Feb-2023
